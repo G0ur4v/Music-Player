@@ -25,3 +25,4 @@ Steps to run the app on your system.
 (I have already provided the .py file to help you with code)
 Download and unzip the file Music_Player_version-1.0 and click on the Musicana, to Enter Nirvana.(You'll get all the resources and icon in the same).
 
+...........................
