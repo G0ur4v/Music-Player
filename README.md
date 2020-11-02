@@ -25,4 +25,12 @@ Steps to run the app on your system.
 (I have already provided the .py file to help you with code)
 Download and unzip the file Music_Player_version-1.0 and click on the Musicana, to Enter Nirvana.(You'll get all the resources and icon in the same).
 
+To make your .py file into .exe i.e executable file 
+open cmd and type the following line of code:
+pyinstaller.exe --onefile -w --icon=your_app_icon_name.ico  your_filename.py
+
+Remember to change directory to your .py directory.
+
+Thankyou.
+
 ...........................
